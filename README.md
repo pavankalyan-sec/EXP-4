@@ -38,15 +38,25 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+![alt text](<Screenshot 2026-03-15 202519.png>)
+
 Bridge rectifier with filter:
 
+![alt text](<Screenshot 2026-03-15 202528.png>)
+
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Half wave rectifier
+
+![alt text](<WhatsApp Image 2026-03-15 at 8.36.40 PM.jpeg>)
+
+Bridge rectifier
+
+![alt text](<WhatsApp Image 2026-03-15 at 8.36.40 PM (1).jpeg>)
 
 WAVEFORM:
 
+![alt text](<Screenshot 2026-03-15 202549.png>)
+![alt text](<Screenshot 2026-03-15 202540.png>)
 
 RESULT:
 
